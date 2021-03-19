@@ -13,8 +13,7 @@
 - GitBash - used to commit and push code changes to Github and track edits
 
 ## Summary
-This is the main page for Horiseon Social Services Inc. It displays general information about the services they provide as well as the benefits
-of using said services. There are also pictures included to clearly convey the meaning of each commodity. It's been made easily accessible and navigatable using header links to navigate to all areas of the page.
+This is the main page for Horiseon Social Services Inc. The code on the page was refactored using semantic HTML tags to make it easier to navigate the source code and make it more accessible. 
 
 ### Author Links
 - [LinkedIn](https://www.linkedin.com/in/marko-sanchez-800)
