@@ -17,5 +17,5 @@ This is the main page for Horiseon Social Services Inc. It displays general info
 of using said services. There are also pictures included to clearly convey the meaning of each commodity. It's been made easily accessible and navigatable using header links to navigate to all areas of the page.
 
 ### Author Links
-[LinkedIn](https://www.linkedin.com/in/marko-sanchez-800)
-[GitHub](https://github.com/markosanchez800)
+- [LinkedIn](https://www.linkedin.com/in/marko-sanchez-800)
+- [GitHub](https://github.com/markosanchez800)
